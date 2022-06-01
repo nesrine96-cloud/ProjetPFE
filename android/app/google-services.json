@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457428552548",
+    "project_id": "pfebeacon",
+    "storage_bucket": "pfebeacon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457428552548:android:a8c88e532cfbd2ed260871",
+        "android_client_info": {
+          "package_name": "com.example.pacman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457428552548-ujarc5krglbvqc4n4d8h2sqcpt09t8ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_7z1z11zlA03Zb6C7am61dr8t2CFPF_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457428552548-ujarc5krglbvqc4n4d8h2sqcpt09t8ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
