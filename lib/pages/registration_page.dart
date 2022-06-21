@@ -100,6 +100,13 @@ class _RegistrationPageState extends State<RegistrationPage>{
                           ),
                           decoration: ThemeHelper().inputBoxDecorationShaddow(),
                         ),
+                        SizedBox(height: 30,),
+                        Container(
+                          child: TextFormField(
+                            decoration: ThemeHelper().textInputDecoration('Phone Number', 'Enter your phone number'),
+                          ),
+                          decoration: ThemeHelper().inputBoxDecorationShaddow(),
+                        ),
                         SizedBox(height: 20.0),
                         Container(
                           child: TextFormField(
